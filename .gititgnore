@@ -1,0 +1,18 @@
+# AWS credentials and local configuration
+.aws/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+.venv/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local deployment outputs
+deployment-output/
