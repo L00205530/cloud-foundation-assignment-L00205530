@@ -30,6 +30,12 @@ Cloud Foundation Assignment from L00205530
 
 This project implements two AWS infrastructure architectures using AWS CloudFormation and YAML templates:
 
+## Architecture Documentation
+
+For detailed architecture diagrams, network design, security decisions
+and deployment details, see:
+
+- [Architecture Design](docs/architecture.md)
 
 
 1\. A static website stored in Amazon S3 and delivered publicly through Amazon CloudFront.
